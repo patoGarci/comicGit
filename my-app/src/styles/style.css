@@ -1,0 +1,14 @@
+.center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.center .ant-rate {
+  color: #ccff00;
+  font-size: 45px;
+}
+/*# sourceMappingURL=style.css.map */
